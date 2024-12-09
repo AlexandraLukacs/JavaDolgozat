@@ -23,12 +23,13 @@ public class Tabla {
     }
 
     public boolean uresOszlop(){
-        
+
         return false;
     }
 
     public boolean uresSor(){
         return false;
     }
+    
 }
 
