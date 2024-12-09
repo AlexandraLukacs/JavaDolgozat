@@ -30,6 +30,6 @@ public class Tabla {
     public boolean uresSor(){
         return false;
     }
-    
+
 }
 
