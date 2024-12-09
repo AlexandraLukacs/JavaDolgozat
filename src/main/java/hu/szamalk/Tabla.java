@@ -18,6 +18,11 @@ public class Tabla {
         }
     }
 
+    public void elhelyez(int n){
+        char kiralyno = 'K';
+
+    }
+
     
 }
 
