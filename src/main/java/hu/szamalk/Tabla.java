@@ -5,8 +5,7 @@ public class Tabla {
     private char uresCella;
 
     public Tabla(char uresCella) {
-        t[7][7] = uresCella;
-        this.uresCella = uresCella;
+        this.t[7][7] = uresCella;
     }
 
     public void megjelenit(){
@@ -23,6 +22,13 @@ public class Tabla {
 
     }
 
-    
+    public boolean uresOszlop(){
+        
+        return false;
+    }
+
+    public boolean uresSor(){
+        return false;
+    }
 }
 
